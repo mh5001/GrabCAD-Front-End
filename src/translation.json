@@ -1,0 +1,41 @@
+{
+    "en": {
+        "Name": "Name",
+        "FileName": "File Name",
+        "PrinterInfo": "Printer Info",
+        "Date": "Date",
+        "SwitchTo" : "Switch to",
+        "BasicInfo": "Basic Info",
+        "PrintDuration": "Print Duration",
+        "FileInfo": "File Info",
+        "Submit": "Submit",
+        "PrintingJobs": "Printing Jobs",
+        "PrintingForm" : "Print Form"
+    },
+    "ee": {
+        "Name": "Nimi",
+        "FileName": "Faili nimi",
+        "PrinterInfo": "Printeri teave",
+        "Date": "Kuupäev",
+        "SwitchTo" : "Valige",
+        "BasicInfo": "Põhiinfo",
+        "PrintDuration": "Printimise Aeg",
+        "FileInfo": "Failiinfo",
+        "Submit": "Esita",
+        "PrintingJobs": "Tööde Printimine",
+        "PrintingForm" : "Printivorm"
+    },
+    "vi": {
+        "Name": "Tên",
+        "FileName": "Tên File",
+        "PrinterInfo": "Thông tin máy in",
+        "Date": "Ngày",
+        "SwitchTo" : "Chuyển Xang",
+        "BasicInfo": "Thông tin đơn giản",
+        "PrintDuration": "Thời Gian in",
+        "FileInfo": "Thông tin file",
+        "Submit": "Gửi",
+        "PrintingJobs": "Thống kê in",
+        "PrintingForm" : "Khuôn Bản in"
+    }
+}

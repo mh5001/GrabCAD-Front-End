@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#job-form-wrapper {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#job-form-wrapper button {
+    width: 100%;
+}
+
+#job-form-wrapper input {
+    width: 100%;
+    height: 25px;
+}
+
+#job-form-wrapper textarea {
+    width: 100%;
+}

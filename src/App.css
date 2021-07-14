@@ -1,0 +1,25 @@
+#mode-switch-wrapper {
+  display: flex;
+  width: 100vw;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 10px;
+}
+
+#mode-switch-wrapper button {
+  font-size: 20px;
+  width: 50vw;
+}
+
+#languages {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
+
+#languages input {
+  width: 50px;
+  height: 50px;
+  margin-right: 20px;
+}
